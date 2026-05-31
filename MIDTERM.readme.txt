@@ -1,0 +1,9 @@
+Thias readme.txt exp;ains where a file path is found
+
+Weeks 8 & 9-MIDTERM
+
+Test login:
+Customer Number: 1
+PIN: 1234
+
+If the database does not connect on another computer, open SQLHelper.cs and update the AttachDbFilename path to the location of ATMDatabase.mdf. Thanks.
